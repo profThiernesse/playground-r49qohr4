@@ -1,13 +1,71 @@
-# Welcome!
+# Introduction - Les papers
+## Exercices
+[Lien vers exercices](https://tech.io/playgrounds/49038/exercices-paper/paper)
 
-This PHP template lets you get started quickly with a simple one-page playground.
+**Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **30/09**.
 
-```php runnable
-<?php
-echo "Hello World!";
-?>
-```
+# Les variables
+## Exercices
+[Lien vers exercices]()
 
-# Advanced usage
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced PHP template](https://tech.io/select-repo/574)
+## QCM
+[Lien vers Quizz]()
+
+
+# Les alternatives
+## Exercices
+[Lien vers exercices]()
+
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+
+## QCM
+[Lien vers Quizz]()
+
+
+# Les répétitions
+## Exercices
+[Lien vers exercices]()
+
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+
+## QCM
+[Lien vers Quizz]()
+
+
+# Les vecteurs
+## Exercices
+[Lien vers exercices]()
+
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+
+## QCM
+[Lien vers Quizz]()
+
+
+# Les tableaux
+## Exercices
+[Lien vers exercices]()
+
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+
+## QCM
+[Lien vers Quizz]()
+
+
+# Les chaînes de caractères
+## Exercices
+[Lien vers exercices]()
+
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+
+## QCM
+[Lien vers Quizz]()
+
+# Exercices récapitulatifs
+## Exercices
+[Lien vers exercices]()
+
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+
