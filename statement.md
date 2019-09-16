@@ -6,7 +6,7 @@
 
 # Les variables
 ## Exercices
-[Lien vers exercices]()
+[Lien vers exercices](https://tech.io/playgrounds/51044/les-variables/exercice-1)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
@@ -16,7 +16,7 @@
 
 # Les alternatives
 ## Exercices
-[Lien vers exercices]()
+[Lien vers exercices](https://tech.io/playgrounds/51045/les-alternatives/exercice-1)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
