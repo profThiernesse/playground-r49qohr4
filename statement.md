@@ -17,6 +17,7 @@
 # Les alternatives
 ## Exercices
 [Lien vers exercices](https://tech.io/playgrounds/51045/les-alternatives/exercice-1)
+[Exercices paper animé](https://tech.io/playgrounds/51349/exercices-papers-animes---la-fourmi-de-langton---enonces)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
@@ -47,6 +48,7 @@
 # Les tableaux
 ## Exercices
 [Lien vers exercices]()
+[Exercices paper animé](https://tech.io/playgrounds/51349/exercices-papers-animes---la-fourmi-de-langton---enonces)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
