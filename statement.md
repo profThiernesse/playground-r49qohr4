@@ -8,7 +8,10 @@
 ## Exercices
 [Lien vers exercices](https://tech.io/playgrounds/51044/les-variables/exercice-1)
 
-**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+**Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **07/10**.
+
+## QCM
+[Lien vers Quizz](https://forms.gle/4QatjdMcX1PFACqT6)
 
 # Les alternatives
 ## Exercices
@@ -16,7 +19,7 @@
 
 [Exercices paper animé](https://tech.io/playgrounds/51349/exercices-papers-animes---la-fourmi-de-langton---enonces)
 
-**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
+**Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **14/10**.
 
 ## QCM
 [Lien vers Quizz](https://forms.gle/77ucvfeka437pdmN8)
