@@ -10,10 +10,6 @@
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
-## QCM
-[Lien vers Quizz]()
-
-
 # Les alternatives
 ## Exercices
 [Lien vers exercices](https://tech.io/playgrounds/51045/les-alternatives/exercice-1)
@@ -23,7 +19,7 @@
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
 ## QCM
-[Lien vers Quizz]()
+[Lien vers Quizz](https://forms.gle/77ucvfeka437pdmN8)
 
 
 # Les répétitions
@@ -32,18 +28,12 @@
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
-## QCM
-[Lien vers Quizz]()
-
 
 # Les vecteurs
 ## Exercices
 [Lien vers exercices]()
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
-
-## QCM
-[Lien vers Quizz]()
 
 
 # Les tableaux
@@ -53,8 +43,6 @@
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
-## QCM
-[Lien vers Quizz]()
 
 
 # Les chaînes de caractères
