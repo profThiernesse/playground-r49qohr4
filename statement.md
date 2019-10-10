@@ -31,6 +31,8 @@
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
+## QCM
+[Lien vers Quizz](https://forms.gle/BbV4FMnbionJ4pD8A)
 
 # Les vecteurs
 ## Exercices
