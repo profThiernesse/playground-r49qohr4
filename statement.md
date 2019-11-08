@@ -46,7 +46,7 @@
 # Les tableaux
 ## Exercices
 [Lien vers exercices]()
-[Exercices paper animé](https://tech.io/playgrounds/51349/exercices-papers-animes---la-fourmi-de-langton---enonces)
+[Exercices paper animé](https://tech.io/playgrounds/51350/exercices-papers-animes---le-jeu-de-la-vie---enonces/paper-anime-avec-step_display---exemple)
 
 **Planning :** Idéalement les exercices doivent être terminés pour le dernier laboratoire de la semaine du **??/??**.
 
